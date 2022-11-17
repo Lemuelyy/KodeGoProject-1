@@ -1,0 +1,48 @@
+.default-font {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main-bgcolor {
+  background-color: #ff9898;
+}
+
+.main-textcolor {
+  color: #ff9898;
+}
+
+.custom-navlink {
+  color: whitesmoke;
+  display: block;
+  padding: .5rem 1rem;
+  text-decoration: none;
+}
+
+.custom-navlink:hover {
+  color: #ff9898;
+}
+
+.custom-navbarbrand {
+  color: #ff9898;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  margin-right: 1rem;
+  font-size: 1.75rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.custom-navbarbrand:hover {
+  color: whitesmoke
+}
+
+.custom-button {
+  background: black;
+  border-color: #ff9898;
+  color: white;
+}
+
+.custom-button:hover {
+  background: white;
+  border: 1px solid #ff9898;
+  color: #ff9898;
+}
