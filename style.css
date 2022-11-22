@@ -10,6 +10,12 @@
   color: #ff9898;
 }
 
+.main-border {
+  border-style: solid;
+  border-color: #ff9898;
+  border-radius: 5px;
+}
+
 .custom-navlink {
   color: whitesmoke;
   display: block;
