@@ -61,3 +61,16 @@
   transform: scale(1.04);
   transition: all .3s ease;
 }
+
+.contactus-button {
+  background: white;
+  border-color: black;
+  color: black;
+}
+
+.contactus-button:hover {
+  background: black;
+  border: 1px solid #ff9898;
+  color: #ff9898;
+  transition: all .3s ease;
+}
